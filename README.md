@@ -5,7 +5,7 @@
 
 ## Use
 ### just run it
-First, adjust the parameters for your searchObject in the entry pint. Then:
+First, adjust the parameters for your searchObject in the entry pint. Then:    
 ``` # python leechd.py ```
 ### implement in other class
 ``` python
